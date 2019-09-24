@@ -1,0 +1,32 @@
+.text-marca {
+  color: #c00;
+}
+
+.bg-marca {
+  background-color: #c00;
+}
+
+.bg-marca-secondary {
+  background-color: #af0000;
+}
+
+.btn-marca {
+  background-color: #c00;
+  color: white;
+  border-color: #af0000;
+}
+
+.btn-marca:hover {
+  background-color: #af0000;
+  color: white;
+}
+
+.btn-marca-secondary {
+  background-color: white;
+  color: #c00;
+  border-color: #e2e2e2;
+}
+
+.btn-marca-secondary:hover {
+  color: #af0000;
+}
